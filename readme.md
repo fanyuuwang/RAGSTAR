@@ -24,3 +24,5 @@ python extract_related_docs.py --output PATH_TO_OUTPUT_LABELS.txt --path PATH_TO
 4. Generate corresponding prompt included the extracted information for LLMs
 
 python generate_prompt.py --docs PATH_TO_YOUR_DOMAIN_DOCS_FOLDER --mission PATH_TO_YOUR_MISSION_FILE.txt --output PATH_TO_YOUR_OUTPUT_PROMPT.txt
+
+## Example output
